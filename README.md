@@ -1,4 +1,4 @@
-# Text Recognition APp
+# Text Recognition App
 
 A flutter app using MLKit
 
